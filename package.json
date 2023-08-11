@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-msdb",
+  "version": "1.1.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuasKF/random-str-msg-msdb.git"
+  },
+  "keywords": [],
+  "author": "Mario Saul De la fuente B <saul.delafuenteb@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuasKF/random-str-msg-msdb/issues"
+  },
+  "homepage": "https://github.com/LuasKF/random-str-msg-msdb#readme",
+  "bin": {
+    "random-str-msg-msdb": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
